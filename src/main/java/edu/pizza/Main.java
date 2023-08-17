@@ -1,11 +1,22 @@
 package edu.pizza;
 
+import edu.listas.ArrayListSample;
 import edu.pizza.base.Pizza;
 import edu.pizza.base.Topping;
 import edu.pizza.especialidades.PizzaItaliana;
 
 public class Main {
     public static void main(String[] args) {
+
+
+        new ArrayListSample().EjemploListaTareas();
+        //ejercicio 0
+//        ArrayListSample ej = new ArrayListSample();
+//        ej.EjemploListaTareas();
+
+
+
+
 
         //ejercicio 1
 //        Pizza pizza = new Pizza("Pizza Margherita", 10.99);
